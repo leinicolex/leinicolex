@@ -62,6 +62,7 @@ Looking for support and contributors for my open-source projects.
 ---
 
 ❤️ Support my open source projects:  
+
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://www.paypal.me/leinicolex)
 
 ---
