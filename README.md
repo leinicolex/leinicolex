@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Lei Nicole!
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leinicolex)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leinicolex)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leinicolex)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leiuv.xn/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lei-nicole-osera-06988a307/)
 
 I'm Lei Nicole, a passionate developer focused on building open-source projects and creating technology that makes a difference.
 
@@ -55,15 +55,17 @@ Looking for support and contributors for my open-source projects.
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/lei-nicole-osera-06988a307/)
-- [Instagram](https://www.instagram.com/leiuv.xn/) 
-- ✉️ Email - leinicoleosera753@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/lei-nicole-osera-06988a307/)
+- 📸 [Instagram](https://www.instagram.com/leiuv.xn/)
+- ✉️ [Email](mailto:leinicoleosera753@gmail.com)
+
+---
 
 ❤️ Support my open source projects:  
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://www.paypal.me/leinicolex)
 
 ---
-pay
+
 ## 📊 GitHub Stats
 
 ![Lei Nicole's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leinicolex&show_icons=true&theme=radical)
