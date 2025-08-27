@@ -11,7 +11,7 @@ I'm Lei Nicole, a passionate developer focused on building open-source projects 
 ## 📟 Currently Working On
 
 - **Portfolio Website** (coming soon!)
-- **Learning React, JavaScript, PHP, and Python**
+- **Learning React, JavaScript, PHP, Python, etc.**
 
 ---
 
