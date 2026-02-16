@@ -69,7 +69,10 @@ Looking for support and contributors for my open-source projects.
 
 ## 📊 GitHub Stats
 
-![Lei Nicole's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leinicolex&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
+![Lei Nicole's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leinicolex&show_icons=true&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=leinicolex&theme=radical&hide_border=true)
+
 
 
 
