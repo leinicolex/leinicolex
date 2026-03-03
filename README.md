@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+I'm+Lei+Nicole+👋;Front+End+Developer;Open+Source;Always+Learning+New+Things+🚀" />
+</p>
+
 # 👋 Hi there, I'm Lei Nicole!
 
 ### 💻 About Me
