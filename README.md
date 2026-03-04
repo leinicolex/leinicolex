@@ -62,11 +62,14 @@ I'm passionate about building scalable and performant web and mobile application
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leinicolex&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leinicolex&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=leinicolex&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leinicolex&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leinicolex&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leinicolex&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 ---
 
