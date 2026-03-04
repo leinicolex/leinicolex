@@ -60,11 +60,11 @@ I'm passionate about building scalable and performant web and mobile application
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-wine-seven-kd640wv70x.vercel.app/api?username=leinicolex&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-mq2e4jhxl-lexs-projects-6dc0385c.vercel.app/api?username=leinicolex&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leinicolex&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-wine-seven-kd640wv70x.vercel.app/api/top-langs/?username=leinicolex&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-mq2e4jhxl-lexs-projects-6dc0385c.vercel.app/api/top-langs/?username=leinicolex&layout=compact&theme=radical)
 
 ---
 
